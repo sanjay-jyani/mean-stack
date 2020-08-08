@@ -1,0 +1,15 @@
+[2020-07-31 15:19:22.452] [sharedprocess] [info] main {"machineId":"83e9ad45f8f107146454c40b808f7e1782b5384357b1f6831175507fe5f64dc2","windowId":2}
+[2020-07-31 15:19:23.926] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /root/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1
+[2020-07-31 15:19:23.930] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0
+[2020-07-31 15:19:24.420] [sharedprocess] [info] Deleted from disk editorconfig.editorconfig /root/.vscode/extensions/editorconfig.editorconfig-0.13.0
+[2020-07-31 15:19:24.421] [sharedprocess] [info] Deleted from disk johnpapa.angular2 /root/.vscode/extensions/johnpapa.angular2-8.2.0
+[2020-07-31 15:19:24.588] [sharedprocess] [info] Deleted from disk eg2.vscode-npm-script /root/.vscode/extensions/eg2.vscode-npm-script-0.3.11
+[2020-07-31 15:19:24.621] [sharedprocess] [info] Deleted from disk angular.ng-template /root/.vscode/extensions/angular.ng-template-0.900.5
+[2020-07-31 15:19:24.622] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome /root/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.4
+[2020-07-31 15:19:28.935] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-07-31 15:19:45.025] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/sanjay/mean-stack/mean-course/~/.vscode-root/CachedExtensionVSIXs/angular.ng-template-0.1000.7
+[2020-07-31 15:19:52.806] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.angular.ng-template-0.1000.7: angular.ng-template
+[2020-07-31 15:19:52.806] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-0.1000.7
+[2020-07-31 15:19:52.807] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-07-31 15:20:02.466] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-31 15:20:05.492] [sharedprocess] [info] Extensions installed successfully: angular.ng-template

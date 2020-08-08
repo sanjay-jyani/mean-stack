@@ -1,0 +1,12 @@
+[Info  - 8:03:04 PM] ESLint server stopped.
+[Info  - 8:03:05 PM] ESLint server running in node v12.8.1
+[Info  - 8:03:05 PM] ESLint server is running.
+[Info  - 8:03:28 PM] 
+Failed to load the ESLint library for the document /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder mean-course
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder mean-course by executing the 'Disable ESLint' command.
+[Info  - 8:40:17 PM] ESLint server stopped.

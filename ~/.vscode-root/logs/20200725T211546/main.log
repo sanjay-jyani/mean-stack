@@ -1,0 +1,6 @@
+[2020-07-25 21:15:47.149] [main] [info] update#setState idle
+[2020-07-25 21:16:17.160] [main] [info] update#setState checking for updates
+[2020-07-25 21:16:17.163] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2020-07-25 21:16:17.163] [main] [info] update#setState idle
+[2020-07-25 22:16:16.055] [main] [info] update#setState checking for updates
+[2020-07-25 22:16:17.446] [main] [info] update#setState available for download

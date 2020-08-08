@@ -1,0 +1,990 @@
+Info 0    [17:14:13.333] Format host information updated
+Info 1    [17:14:13.334] reload projects.
+Info 2    [17:14:13.334] Before ensureProjectForOpenFiles:
+Info 3    [17:14:13.334] After ensureProjectForOpenFiles:
+Info 4    [17:14:13.334] Host file extension mappings updated
+Info 5    [17:14:13.348] Search path: /home/sanjay/mean-stack/mean-course/src/app/auth/signup
+Info 6    [17:14:13.349] For info: /home/sanjay/mean-stack/mean-course/src/app/auth/signup/signup.component.html :: Config file name: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 7    [17:14:13.349] Opened configuration file /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 8    [17:14:13.408] Config: /home/sanjay/mean-stack/mean-course/tsconfig.json : {
+ "rootNames": [
+  "/home/sanjay/mean-stack/mean-course/e2e/src/app.e2e-spec.ts",
+  "/home/sanjay/mean-stack/mean-course/e2e/src/app.po.ts",
+  "/home/sanjay/mean-stack/mean-course/src/main.ts",
+  "/home/sanjay/mean-stack/mean-course/src/polyfills.ts",
+  "/home/sanjay/mean-stack/mean-course/src/test.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/app-routing.module.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/app.component.spec.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/app.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/app.module.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/auth/auth-data.model.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/auth/auth-interceptor.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/auth/auth.service.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/auth/login/login.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/auth/signup/signup.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/header/header.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/post/post.model.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/post/post.service.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/post/post-create/mime-type.validator.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/post/post-create/post-create.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/app/post/post-list/post-list.component.ts",
+  "/home/sanjay/mean-stack/mean-course/src/environments/environment.prod.ts",
+  "/home/sanjay/mean-stack/mean-course/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/sanjay/mean-stack/mean-course",
+  "outDir": "/home/sanjay/mean-stack/mean-course/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "typeRoots": [
+   "/home/sanjay/mean-stack/mean-course/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/sanjay/mean-stack/mean-course/tsconfig.json"
+ }
+}
+Info 9    [17:14:14.113] Loading global plugin @angular/language-service
+Info 10   [17:14:14.113] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [17:14:14.113] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [17:14:14.226] Plugin validation succeded
+Info 13   [17:14:14.258] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 14   [17:14:19.195] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 1 structureChanged: true Elapsed: 4937ms
+Info 15   [17:14:19.195] Project '/home/sanjay/mean-stack/mean-course/tsconfig.json' (Configured)
+Info 16   [17:14:19.195] 	Files (635)
+
+Info 17   [17:14:19.195] -----------------------------------------------
+Info 18   [17:14:19.198] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 19   [17:14:19.202] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 2 structureChanged: false Elapsed: 4ms
+Info 20   [17:14:26.553] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 21   [17:14:26.560] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 3 structureChanged: false Elapsed: 7ms
+Info 22   [17:14:26.987] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 23   [17:14:26.989] Elapsed:: 2ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 24   [17:14:27.152] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 25   [17:14:27.152] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 4 structureChanged: false Elapsed: 0ms
+Info 26   [17:14:28.91] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 27   [17:14:28.299] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 5 structureChanged: true Elapsed: 207ms
+Info 28   [17:14:28.300] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 29   [17:14:28.356] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 30   [17:14:28.356] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 31   [17:14:28.681] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 32   [17:14:28.681] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 6 structureChanged: false Elapsed: 0ms
+Info 33   [17:14:28.681] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 34   [17:14:30.182] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 35   [17:14:30.252] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 7 structureChanged: false Elapsed: 70ms
+Info 36   [17:14:30.252] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 37   [17:14:30.857] Before ensureProjectForOpenFiles:
+Info 38   [17:14:30.858] After ensureProjectForOpenFiles:
+Info 39   [17:14:32.249] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 40   [17:14:32.249] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 41   [17:14:32.896] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 42   [17:14:32.896] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 8 structureChanged: false Elapsed: 0ms
+Info 43   [17:14:32.896] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 44   [17:14:34.749] Before ensureProjectForOpenFiles:
+Info 45   [17:14:34.749] After ensureProjectForOpenFiles:
+Info 46   [17:14:34.851] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 47   [17:14:34.851] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 48   [17:14:34.986] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 49   [17:14:34.987] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 9 structureChanged: false Elapsed: 0ms
+Info 50   [17:14:37.352] Before ensureProjectForOpenFiles:
+Info 51   [17:14:37.352] After ensureProjectForOpenFiles:
+Info 52   [17:15:2.265] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 53   [17:15:2.342] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 10 structureChanged: false Elapsed: 77ms
+Info 54   [17:15:2.342] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 55   [17:15:4.547] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 56   [17:15:4.547] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 57   [17:15:5.84] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 58   [17:15:5.84] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 11 structureChanged: false Elapsed: 0ms
+Info 59   [17:15:5.85] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 60   [17:15:6.595] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 61   [17:15:6.595] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 62   [17:15:6.872] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 63   [17:15:6.872] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 12 structureChanged: false Elapsed: 0ms
+Info 64   [17:15:9.96] Before ensureProjectForOpenFiles:
+Info 65   [17:15:9.96] After ensureProjectForOpenFiles:
+Info 66   [17:18:37.90] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 67   [17:18:37.90] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 68   [17:18:37.394] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 69   [17:18:37.394] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 13 structureChanged: false Elapsed: 0ms
+Info 70   [17:18:39.590] Before ensureProjectForOpenFiles:
+Info 71   [17:18:39.590] After ensureProjectForOpenFiles:
+Info 72   [17:23:37.127] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 73   [17:23:37.127] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 74   [17:23:37.409] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 75   [17:23:37.409] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 14 structureChanged: false Elapsed: 0ms
+Info 76   [17:23:39.628] Before ensureProjectForOpenFiles:
+Info 77   [17:23:39.628] After ensureProjectForOpenFiles:
+Info 78   [17:28:25.418] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 79   [17:28:25.418] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 80   [17:28:25.717] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 81   [17:28:25.717] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 15 structureChanged: false Elapsed: 0ms
+Info 82   [17:28:27.918] Before ensureProjectForOpenFiles:
+Info 83   [17:28:27.918] After ensureProjectForOpenFiles:
+Info 84   [17:28:30.100] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 85   [17:28:30.101] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 86   [17:28:30.389] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 87   [17:28:30.389] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 16 structureChanged: false Elapsed: 0ms
+Info 88   [17:28:32.601] Before ensureProjectForOpenFiles:
+Info 89   [17:28:32.602] After ensureProjectForOpenFiles:
+Info 90   [17:28:32.870] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 91   [17:28:32.870] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 92   [17:28:33.156] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 93   [17:28:33.157] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 17 structureChanged: false Elapsed: 1ms
+Info 94   [17:28:35.370] Before ensureProjectForOpenFiles:
+Info 95   [17:28:35.371] After ensureProjectForOpenFiles:
+Info 96   [17:28:37.143] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 97   [17:28:37.143] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 98   [17:28:37.430] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 99   [17:28:37.430] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 18 structureChanged: false Elapsed: 0ms
+Info 100  [17:28:38.574] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 101  [17:28:38.574] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 102  [17:28:38.856] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 103  [17:28:38.856] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 19 structureChanged: false Elapsed: 0ms
+Info 104  [17:28:41.74] Before ensureProjectForOpenFiles:
+Info 105  [17:28:41.74] After ensureProjectForOpenFiles:
+Info 106  [17:33:37.172] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 107  [17:33:37.173] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 108  [17:33:37.451] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 109  [17:33:37.451] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 20 structureChanged: false Elapsed: 0ms
+Info 110  [17:33:39.673] Before ensureProjectForOpenFiles:
+Info 111  [17:33:39.673] After ensureProjectForOpenFiles:
+Info 112  [17:38:37.184] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 113  [17:38:37.184] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 114  [17:38:37.469] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 115  [17:38:37.469] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 21 structureChanged: false Elapsed: 0ms
+Info 116  [17:38:39.685] Before ensureProjectForOpenFiles:
+Info 117  [17:38:39.686] After ensureProjectForOpenFiles:
+Info 118  [17:43:38.108] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 119  [17:43:38.109] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 120  [17:43:38.399] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 121  [17:43:38.399] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 22 structureChanged: false Elapsed: 0ms
+Info 122  [17:43:40.609] Before ensureProjectForOpenFiles:
+Info 123  [17:43:40.609] After ensureProjectForOpenFiles:
+Info 124  [17:48:38.138] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 125  [17:48:38.139] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 126  [17:48:38.425] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 127  [17:48:38.426] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 23 structureChanged: false Elapsed: 1ms
+Info 128  [17:48:40.639] Before ensureProjectForOpenFiles:
+Info 129  [17:48:40.639] After ensureProjectForOpenFiles:
+Info 130  [17:48:59.289] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 131  [17:48:59.289] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 132  [17:48:59.576] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 133  [17:48:59.577] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 24 structureChanged: false Elapsed: 1ms
+Info 134  [17:49:1.788] Before ensureProjectForOpenFiles:
+Info 135  [17:49:1.788] After ensureProjectForOpenFiles:
+Info 136  [17:49:2.358] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 137  [17:49:2.358] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 138  [17:49:2.640] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 139  [17:49:2.640] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 25 structureChanged: false Elapsed: 0ms
+Info 140  [17:49:4.858] Before ensureProjectForOpenFiles:
+Info 141  [17:49:4.858] After ensureProjectForOpenFiles:
+Info 142  [17:49:5.183] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 143  [17:49:5.183] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 144  [17:49:5.469] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 145  [17:49:5.469] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 26 structureChanged: false Elapsed: 0ms
+Info 146  [17:49:7.683] Before ensureProjectForOpenFiles:
+Info 147  [17:49:7.683] After ensureProjectForOpenFiles:
+Info 148  [17:49:14.263] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 149  [17:49:14.264] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 150  [17:49:14.566] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 151  [17:49:14.566] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 27 structureChanged: false Elapsed: 0ms
+Info 152  [17:49:16.764] Before ensureProjectForOpenFiles:
+Info 153  [17:49:16.764] After ensureProjectForOpenFiles:
+Info 154  [17:49:17.381] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 155  [17:49:17.382] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 156  [17:49:17.675] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 157  [17:49:17.676] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 28 structureChanged: false Elapsed: 1ms
+Info 158  [17:49:19.882] Before ensureProjectForOpenFiles:
+Info 159  [17:49:19.882] After ensureProjectForOpenFiles:
+Info 160  [17:51:44.870] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 161  [17:51:44.870] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 162  [17:51:45.148] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 163  [17:51:45.148] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 29 structureChanged: false Elapsed: 0ms
+Info 164  [17:51:47.370] Before ensureProjectForOpenFiles:
+Info 165  [17:51:47.371] After ensureProjectForOpenFiles:
+Info 166  [17:52:3.46] Search path: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core
+Info 167  [17:52:3.48] For info: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core/index.d.ts :: No config files found.
+Info 168  [17:52:3.53] Loading global plugin @angular/language-service
+Info 169  [17:52:3.53] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 170  [17:52:3.54] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 171  [17:52:3.137] Plugin validation succeded
+Info 172  [17:52:3.139] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 173  [17:52:4.738] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1599ms
+Info 174  [17:52:4.738] Project '/dev/null/inferredProject1*' (Inferred)
+Info 175  [17:52:4.739] 	Files (103)
+
+Info 176  [17:52:4.739] -----------------------------------------------
+Info 177  [17:52:4.741] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 178  [17:52:4.741] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 179  [17:52:4.744] Search path: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core
+Info 180  [17:52:4.745] For info: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core/index.d.ts :: No config files found.
+Info 181  [17:52:4.745] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 182  [17:52:4.746] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 1ms
+Info 183  [17:52:4.746] Project '/dev/null/inferredProject1*' (Inferred)
+Info 184  [17:52:4.746] 	Files (103)
+
+Info 185  [17:52:4.746] -----------------------------------------------
+Info 186  [17:52:5.29] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 187  [17:52:5.29] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 30 structureChanged: false Elapsed: 0ms
+Info 188  [17:52:5.743] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 189  [17:52:5.744] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 190  [17:52:6.28] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 191  [17:52:6.28] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 31 structureChanged: false Elapsed: 0ms
+Info 192  [17:52:8.244] Before ensureProjectForOpenFiles:
+Info 193  [17:52:8.245] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 194  [17:52:8.255] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 10ms
+Info 195  [17:52:8.255] Project '/dev/null/inferredProject1*' (Inferred)
+Info 196  [17:52:8.255] 	Files (0)
+
+Info 197  [17:52:8.255] -----------------------------------------------
+Info 198  [17:52:8.255] After ensureProjectForOpenFiles:
+Info 199  [17:52:8.840] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 200  [17:52:8.841] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 201  [17:52:9.115] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 202  [17:52:9.115] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 32 structureChanged: false Elapsed: 0ms
+Info 203  [17:52:11.341] Before ensureProjectForOpenFiles:
+Info 204  [17:52:11.341] After ensureProjectForOpenFiles:
+Info 205  [17:52:54.676] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 206  [17:52:54.677] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 207  [17:52:54.982] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 208  [17:52:54.982] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 33 structureChanged: false Elapsed: 0ms
+Info 209  [17:52:57.177] Before ensureProjectForOpenFiles:
+Info 210  [17:52:57.177] After ensureProjectForOpenFiles:
+Info 211  [17:53:2.721] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 212  [17:53:2.722] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 213  [17:53:3.2] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 214  [17:53:3.2] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 34 structureChanged: false Elapsed: 0ms
+Info 215  [17:53:5.222] Before ensureProjectForOpenFiles:
+Info 216  [17:53:5.222] After ensureProjectForOpenFiles:
+Info 217  [17:53:5.766] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 218  [17:53:5.766] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 219  [17:53:6.43] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 220  [17:53:6.43] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 35 structureChanged: false Elapsed: 0ms
+Info 221  [17:53:8.267] Before ensureProjectForOpenFiles:
+Info 222  [17:53:8.267] After ensureProjectForOpenFiles:
+Info 223  [17:53:38.158] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 224  [17:53:38.159] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 225  [17:53:38.441] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 226  [17:53:38.441] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 36 structureChanged: false Elapsed: 0ms
+Info 227  [17:53:40.659] Before ensureProjectForOpenFiles:
+Info 228  [17:53:40.660] After ensureProjectForOpenFiles:
+Info 229  [17:54:18.171] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 230  [17:54:18.171] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 231  [17:54:18.459] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 232  [17:54:18.459] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 37 structureChanged: false Elapsed: 0ms
+Info 233  [17:54:20.672] Before ensureProjectForOpenFiles:
+Info 234  [17:54:20.672] After ensureProjectForOpenFiles:
+Info 235  [17:54:22.697] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 236  [17:54:22.698] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 237  [17:54:22.990] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 238  [17:54:22.990] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 38 structureChanged: false Elapsed: 0ms
+Info 239  [17:54:25.198] Before ensureProjectForOpenFiles:
+Info 240  [17:54:25.198] After ensureProjectForOpenFiles:
+Info 241  [17:54:25.495] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 242  [17:54:25.496] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 243  [17:54:25.776] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 244  [17:54:25.776] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 39 structureChanged: false Elapsed: 0ms
+Info 245  [17:54:27.996] Before ensureProjectForOpenFiles:
+Info 246  [17:54:27.996] After ensureProjectForOpenFiles:
+Info 247  [17:58:38.196] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 248  [17:58:38.196] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 249  [17:58:38.483] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 250  [17:58:38.483] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 40 structureChanged: false Elapsed: 0ms
+Info 251  [17:58:40.697] Before ensureProjectForOpenFiles:
+Info 252  [17:58:40.697] After ensureProjectForOpenFiles:
+Info 253  [18:3:25.526] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 254  [18:3:25.526] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 255  [18:3:25.807] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 256  [18:3:25.807] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 41 structureChanged: false Elapsed: 0ms
+Info 257  [18:3:28.26] Before ensureProjectForOpenFiles:
+Info 258  [18:3:28.27] After ensureProjectForOpenFiles:
+Info 259  [18:3:30.56] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 260  [18:3:30.56] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 261  [18:3:30.344] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 262  [18:3:30.344] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 42 structureChanged: false Elapsed: 0ms
+Info 263  [18:3:32.556] Before ensureProjectForOpenFiles:
+Info 264  [18:3:32.557] After ensureProjectForOpenFiles:
+Info 265  [18:3:38.212] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 266  [18:3:38.212] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 267  [18:3:38.500] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 268  [18:3:38.501] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 43 structureChanged: false Elapsed: 0ms
+Info 269  [18:3:40.711] Before ensureProjectForOpenFiles:
+Info 270  [18:3:40.712] After ensureProjectForOpenFiles:
+Info 271  [18:4:7.702] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 272  [18:4:7.702] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 273  [18:4:7.988] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 274  [18:4:7.989] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 44 structureChanged: false Elapsed: 0ms
+Info 275  [18:4:10.202] Before ensureProjectForOpenFiles:
+Info 276  [18:4:10.202] After ensureProjectForOpenFiles:
+Info 277  [18:5:5.332] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 278  [18:5:5.333] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 279  [18:5:5.616] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 280  [18:5:5.616] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 45 structureChanged: false Elapsed: 0ms
+Info 281  [18:5:7.833] Before ensureProjectForOpenFiles:
+Info 282  [18:5:7.833] After ensureProjectForOpenFiles:
+Info 283  [18:5:19.274] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 284  [18:5:19.275] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 285  [18:5:19.565] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 286  [18:5:19.565] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 46 structureChanged: false Elapsed: 0ms
+Info 287  [18:5:21.775] Before ensureProjectForOpenFiles:
+Info 288  [18:5:21.775] After ensureProjectForOpenFiles:
+Info 289  [18:5:48.173] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 290  [18:5:48.173] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 291  [18:5:48.454] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 292  [18:5:48.454] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 47 structureChanged: false Elapsed: 0ms
+Info 293  [18:5:50.673] Before ensureProjectForOpenFiles:
+Info 294  [18:5:50.673] After ensureProjectForOpenFiles:
+Info 295  [18:6:25.507] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 296  [18:6:25.508] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 297  [18:6:25.789] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 298  [18:6:25.789] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 48 structureChanged: false Elapsed: 0ms
+Info 299  [18:6:28.11] Before ensureProjectForOpenFiles:
+Info 300  [18:6:28.11] After ensureProjectForOpenFiles:
+Info 301  [18:6:28.920] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 302  [18:6:28.920] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 303  [18:6:29.211] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 304  [18:6:29.211] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 49 structureChanged: false Elapsed: 0ms
+Info 305  [18:6:31.420] Before ensureProjectForOpenFiles:
+Info 306  [18:6:31.420] After ensureProjectForOpenFiles:
+Info 307  [18:7:6.588] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 308  [18:7:6.589] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 309  [18:7:6.877] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 310  [18:7:6.877] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 50 structureChanged: false Elapsed: 0ms
+Info 311  [18:7:9.89] Before ensureProjectForOpenFiles:
+Info 312  [18:7:9.90] After ensureProjectForOpenFiles:
+Info 313  [18:8:25.530] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 314  [18:8:25.531] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 315  [18:8:25.821] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 316  [18:8:25.821] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 51 structureChanged: false Elapsed: 0ms
+Info 317  [18:8:28.31] Before ensureProjectForOpenFiles:
+Info 318  [18:8:28.32] After ensureProjectForOpenFiles:
+Info 319  [18:8:38.243] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 320  [18:8:38.243] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 321  [18:8:38.520] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 322  [18:8:38.520] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 52 structureChanged: false Elapsed: 0ms
+Info 323  [18:8:40.743] Before ensureProjectForOpenFiles:
+Info 324  [18:8:40.743] After ensureProjectForOpenFiles:
+Info 325  [18:8:44.405] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 326  [18:8:44.406] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 327  [18:8:44.690] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 328  [18:8:44.690] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 53 structureChanged: false Elapsed: 0ms
+Info 329  [18:8:46.906] Before ensureProjectForOpenFiles:
+Info 330  [18:8:46.906] After ensureProjectForOpenFiles:
+Info 331  [18:8:57.538] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 332  [18:8:57.538] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 333  [18:8:57.811] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 334  [18:8:57.811] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 54 structureChanged: false Elapsed: 0ms
+Info 335  [18:9:0.38] Before ensureProjectForOpenFiles:
+Info 336  [18:9:0.38] After ensureProjectForOpenFiles:
+Info 337  [18:9:1.412] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 338  [18:9:1.412] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 339  [18:9:1.691] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 340  [18:9:1.691] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 55 structureChanged: false Elapsed: 0ms
+Info 341  [18:9:3.914] Before ensureProjectForOpenFiles:
+Info 342  [18:9:3.914] After ensureProjectForOpenFiles:
+Info 343  [18:13:38.268] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 344  [18:13:38.269] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 345  [18:13:38.554] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 346  [18:13:38.554] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 56 structureChanged: false Elapsed: 0ms
+Info 347  [18:13:40.769] Before ensureProjectForOpenFiles:
+Info 348  [18:13:40.769] After ensureProjectForOpenFiles:
+Info 349  [18:18:38.292] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 350  [18:18:38.293] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 351  [18:18:38.579] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 352  [18:18:38.579] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 57 structureChanged: false Elapsed: 0ms
+Info 353  [18:18:40.793] Before ensureProjectForOpenFiles:
+Info 354  [18:18:40.794] After ensureProjectForOpenFiles:
+Info 355  [18:20:47.511] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 356  [18:20:47.512] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 357  [18:20:47.802] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 358  [18:20:47.802] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 58 structureChanged: false Elapsed: 0ms
+Info 359  [18:20:50.12] Before ensureProjectForOpenFiles:
+Info 360  [18:20:50.12] After ensureProjectForOpenFiles:
+Info 361  [18:21:2.540] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 362  [18:21:2.540] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 363  [18:21:2.819] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 364  [18:21:2.819] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 59 structureChanged: false Elapsed: 0ms
+Info 365  [18:21:5.41] Before ensureProjectForOpenFiles:
+Info 366  [18:21:5.41] After ensureProjectForOpenFiles:
+Info 367  [18:21:6.867] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 368  [18:21:6.868] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 369  [18:21:7.157] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 370  [18:21:7.157] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 60 structureChanged: false Elapsed: 0ms
+Info 371  [18:21:9.367] Before ensureProjectForOpenFiles:
+Info 372  [18:21:9.368] After ensureProjectForOpenFiles:
+Info 373  [18:21:43.410] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 374  [18:21:43.410] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 375  [18:21:43.698] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 376  [18:21:43.698] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 61 structureChanged: false Elapsed: 0ms
+Info 377  [18:21:45.911] Before ensureProjectForOpenFiles:
+Info 378  [18:21:45.911] After ensureProjectForOpenFiles:
+Info 379  [18:22:0.531] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 380  [18:22:0.531] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 381  [18:22:0.824] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 382  [18:22:0.825] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 62 structureChanged: false Elapsed: 1ms
+Info 383  [18:22:1.825] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 384  [18:22:1.825] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 385  [18:22:2.114] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 386  [18:22:2.114] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 63 structureChanged: false Elapsed: 0ms
+Info 387  [18:22:4.325] Before ensureProjectForOpenFiles:
+Info 388  [18:22:4.326] After ensureProjectForOpenFiles:
+Info 389  [18:22:25.556] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 390  [18:22:25.557] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 391  [18:22:25.841] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 392  [18:22:25.841] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 64 structureChanged: false Elapsed: 0ms
+Info 393  [18:22:28.57] Before ensureProjectForOpenFiles:
+Info 394  [18:22:28.57] After ensureProjectForOpenFiles:
+Info 395  [18:22:30.631] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 396  [18:22:30.631] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 397  [18:22:30.929] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 398  [18:22:30.929] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 65 structureChanged: false Elapsed: 0ms
+Info 399  [18:22:33.131] Before ensureProjectForOpenFiles:
+Info 400  [18:22:33.131] After ensureProjectForOpenFiles:
+Info 401  [18:22:35.723] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 402  [18:22:35.723] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 403  [18:22:35.996] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 404  [18:22:35.996] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 66 structureChanged: false Elapsed: 0ms
+Info 405  [18:22:38.224] Before ensureProjectForOpenFiles:
+Info 406  [18:22:38.224] After ensureProjectForOpenFiles:
+Info 407  [18:23:38.316] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 408  [18:23:38.316] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 409  [18:23:38.601] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 410  [18:23:38.602] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 67 structureChanged: false Elapsed: 1ms
+Info 411  [18:23:40.817] Before ensureProjectForOpenFiles:
+Info 412  [18:23:40.817] After ensureProjectForOpenFiles:
+Info 413  [18:24:3.762] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 414  [18:24:3.762] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 415  [18:24:4.54] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 416  [18:24:4.55] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 68 structureChanged: false Elapsed: 0ms
+Info 417  [18:24:5.358] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 418  [18:24:5.359] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 419  [18:24:5.647] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 420  [18:24:5.647] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 69 structureChanged: false Elapsed: 0ms
+Info 421  [18:24:7.859] Before ensureProjectForOpenFiles:
+Info 422  [18:24:7.859] After ensureProjectForOpenFiles:
+Info 423  [18:24:36.957] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 424  [18:24:36.958] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 425  [18:24:37.252] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 426  [18:24:37.252] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 70 structureChanged: false Elapsed: 0ms
+Info 427  [18:24:39.459] Before ensureProjectForOpenFiles:
+Info 428  [18:24:39.459] After ensureProjectForOpenFiles:
+Info 429  [18:24:43.835] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 430  [18:24:43.835] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 431  [18:24:44.110] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 432  [18:24:44.110] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 71 structureChanged: false Elapsed: 0ms
+Info 433  [18:24:45.695] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 434  [18:24:45.695] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 435  [18:24:45.970] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 436  [18:24:45.970] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 72 structureChanged: false Elapsed: 0ms
+Info 437  [18:24:48.196] Before ensureProjectForOpenFiles:
+Info 438  [18:24:48.196] After ensureProjectForOpenFiles:
+Info 439  [18:24:52.848] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 440  [18:24:52.849] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 441  [18:24:53.124] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 442  [18:24:53.124] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 73 structureChanged: false Elapsed: 0ms
+Info 443  [18:24:54.126] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 444  [18:24:54.126] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 445  [18:24:54.402] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 446  [18:24:54.402] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 74 structureChanged: false Elapsed: 0ms
+Info 447  [18:24:56.625] Before ensureProjectForOpenFiles:
+Info 448  [18:24:56.625] After ensureProjectForOpenFiles:
+Info 449  [18:27:24.739] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 450  [18:27:24.740] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 451  [18:27:25.28] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 452  [18:27:25.28] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 75 structureChanged: false Elapsed: 0ms
+Info 453  [18:27:27.240] Before ensureProjectForOpenFiles:
+Info 454  [18:27:27.240] After ensureProjectForOpenFiles:
+Info 455  [18:27:30.625] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 456  [18:27:30.625] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 457  [18:27:30.900] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 458  [18:27:30.900] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 76 structureChanged: false Elapsed: 0ms
+Info 459  [18:27:33.126] Before ensureProjectForOpenFiles:
+Info 460  [18:27:33.127] After ensureProjectForOpenFiles:
+Info 461  [18:27:34.960] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 462  [18:27:34.960] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 463  [18:27:35.246] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 464  [18:27:35.246] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 77 structureChanged: false Elapsed: 0ms
+Info 465  [18:27:37.461] Before ensureProjectForOpenFiles:
+Info 466  [18:27:37.461] After ensureProjectForOpenFiles:
+Info 467  [18:27:38.693] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 468  [18:27:38.693] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 469  [18:27:38.970] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 470  [18:27:38.970] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 78 structureChanged: false Elapsed: 0ms
+Info 471  [18:27:41.41] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 472  [18:27:41.42] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 473  [18:27:41.327] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 474  [18:27:41.327] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 79 structureChanged: false Elapsed: 0ms
+Info 475  [18:27:43.542] Before ensureProjectForOpenFiles:
+Info 476  [18:27:43.542] After ensureProjectForOpenFiles:
+Info 477  [18:27:46.746] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 478  [18:27:46.746] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 479  [18:27:47.31] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 480  [18:27:47.31] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 80 structureChanged: false Elapsed: 0ms
+Info 481  [18:27:47.886] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 482  [18:27:47.886] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 483  [18:27:48.162] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 484  [18:27:48.162] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 81 structureChanged: false Elapsed: 0ms
+Info 485  [18:27:50.386] Before ensureProjectForOpenFiles:
+Info 486  [18:27:50.386] After ensureProjectForOpenFiles:
+Info 487  [18:28:38.342] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 488  [18:28:38.342] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 489  [18:28:38.633] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 490  [18:28:38.633] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 82 structureChanged: false Elapsed: 0ms
+Info 491  [18:28:40.843] Before ensureProjectForOpenFiles:
+Info 492  [18:28:40.843] After ensureProjectForOpenFiles:
+Info 493  [18:31:4.909] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 494  [18:31:4.910] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 495  [18:31:5.210] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 496  [18:31:5.210] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 83 structureChanged: false Elapsed: 0ms
+Info 497  [18:31:7.409] Before ensureProjectForOpenFiles:
+Info 498  [18:31:7.409] After ensureProjectForOpenFiles:
+Info 499  [18:31:25.606] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 500  [18:31:25.607] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 501  [18:31:25.889] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 502  [18:31:25.890] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 84 structureChanged: false Elapsed: 0ms
+Info 503  [18:31:28.107] Before ensureProjectForOpenFiles:
+Info 504  [18:31:28.108] After ensureProjectForOpenFiles:
+Info 505  [18:31:46.700] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 506  [18:31:46.700] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 507  [18:31:47.6] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 508  [18:31:47.6] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 85 structureChanged: false Elapsed: 0ms
+Info 509  [18:31:49.201] Before ensureProjectForOpenFiles:
+Info 510  [18:31:49.201] After ensureProjectForOpenFiles:
+Info 511  [18:31:52.234] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 512  [18:31:52.234] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 513  [18:31:52.514] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 514  [18:31:52.515] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 86 structureChanged: false Elapsed: 0ms
+Info 515  [18:31:54.199] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 516  [18:31:54.200] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 517  [18:31:54.479] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 518  [18:31:54.479] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 87 structureChanged: false Elapsed: 0ms
+Info 519  [18:31:56.700] Before ensureProjectForOpenFiles:
+Info 520  [18:31:56.700] After ensureProjectForOpenFiles:
+Info 521  [18:32:25.677] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 522  [18:32:25.677] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 523  [18:32:25.967] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 524  [18:32:25.967] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 88 structureChanged: false Elapsed: 0ms
+Info 525  [18:32:28.178] Before ensureProjectForOpenFiles:
+Info 526  [18:32:28.178] After ensureProjectForOpenFiles:
+Info 527  [18:32:35.66] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 528  [18:32:35.67] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 529  [18:32:35.360] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 530  [18:32:35.360] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 89 structureChanged: false Elapsed: 0ms
+Info 531  [18:32:37.566] Before ensureProjectForOpenFiles:
+Info 532  [18:32:37.566] After ensureProjectForOpenFiles:
+Info 533  [18:32:53.412] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 534  [18:32:53.412] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 535  [18:32:53.712] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 536  [18:32:53.712] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 90 structureChanged: false Elapsed: 0ms
+Info 537  [18:32:55.912] Before ensureProjectForOpenFiles:
+Info 538  [18:32:55.912] After ensureProjectForOpenFiles:
+Info 539  [18:33:1.765] Search path: /root/.cache/typescript/3.9/node_modules/@types/jsonwebtoken
+Info 540  [18:33:1.768] For info: /root/.cache/typescript/3.9/node_modules/@types/jsonwebtoken/index.d.ts :: No config files found.
+Info 541  [18:33:1.771] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 542  [18:33:1.881] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 110ms
+Info 543  [18:33:1.881] Project '/dev/null/inferredProject1*' (Inferred)
+Info 544  [18:33:1.881] 	Files (101)
+
+Info 545  [18:33:1.881] -----------------------------------------------
+Info 546  [18:33:5.711] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 547  [18:33:5.711] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 548  [18:33:5.995] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 549  [18:33:5.995] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 91 structureChanged: false Elapsed: 0ms
+Info 550  [18:33:8.211] Before ensureProjectForOpenFiles:
+Info 551  [18:33:8.211] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 552  [18:33:8.217] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true Elapsed: 6ms
+Info 553  [18:33:8.217] Project '/dev/null/inferredProject1*' (Inferred)
+Info 554  [18:33:8.217] 	Files (0)
+
+Info 555  [18:33:8.217] -----------------------------------------------
+Info 556  [18:33:8.218] After ensureProjectForOpenFiles:
+Info 557  [18:33:9.404] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 558  [18:33:9.404] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 559  [18:33:9.689] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 560  [18:33:9.689] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 92 structureChanged: false Elapsed: 0ms
+Info 561  [18:33:11.904] Before ensureProjectForOpenFiles:
+Info 562  [18:33:11.904] After ensureProjectForOpenFiles:
+Info 563  [18:33:25.667] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 564  [18:33:25.667] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 565  [18:33:25.947] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 566  [18:33:25.948] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 93 structureChanged: false Elapsed: 0ms
+Info 567  [18:33:27.346] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 568  [18:33:27.347] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 569  [18:33:27.647] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 570  [18:33:27.648] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 94 structureChanged: false Elapsed: 0ms
+Info 571  [18:33:29.847] Before ensureProjectForOpenFiles:
+Info 572  [18:33:29.847] After ensureProjectForOpenFiles:
+Info 573  [18:33:38.362] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 574  [18:33:38.362] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 575  [18:33:38.646] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 576  [18:33:38.646] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 95 structureChanged: false Elapsed: 0ms
+Info 577  [18:33:40.863] Before ensureProjectForOpenFiles:
+Info 578  [18:33:40.863] After ensureProjectForOpenFiles:
+Info 579  [18:34:1.431] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 580  [18:34:1.431] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 581  [18:34:1.727] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 582  [18:34:1.727] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 96 structureChanged: false Elapsed: 0ms
+Info 583  [18:34:3.932] Before ensureProjectForOpenFiles:
+Info 584  [18:34:3.932] After ensureProjectForOpenFiles:
+Info 585  [18:34:5.557] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 586  [18:34:5.557] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 587  [18:34:5.840] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 588  [18:34:5.841] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 97 structureChanged: false Elapsed: 0ms
+Info 589  [18:34:8.58] Before ensureProjectForOpenFiles:
+Info 590  [18:34:8.58] After ensureProjectForOpenFiles:
+Info 591  [18:34:8.901] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 592  [18:34:8.901] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 593  [18:34:9.226] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 594  [18:34:9.226] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 98 structureChanged: false Elapsed: 0ms
+Info 595  [18:34:11.402] Before ensureProjectForOpenFiles:
+Info 596  [18:34:11.403] After ensureProjectForOpenFiles:
+Info 597  [18:34:17.964] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 598  [18:34:17.964] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 599  [18:34:18.264] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 600  [18:34:18.264] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 99 structureChanged: false Elapsed: 0ms
+Info 601  [18:34:20.465] Before ensureProjectForOpenFiles:
+Info 602  [18:34:20.465] After ensureProjectForOpenFiles:
+Info 603  [18:34:52.787] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 604  [18:34:52.787] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 605  [18:34:53.76] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 606  [18:34:53.76] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 100 structureChanged: false Elapsed: 0ms
+Info 607  [18:34:55.288] Before ensureProjectForOpenFiles:
+Info 608  [18:34:55.288] After ensureProjectForOpenFiles:
+Info 609  [18:36:34.834] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 610  [18:36:34.835] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 611  [18:36:35.114] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 612  [18:36:35.114] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 101 structureChanged: false Elapsed: 0ms
+Info 613  [18:36:37.335] Before ensureProjectForOpenFiles:
+Info 614  [18:36:37.335] After ensureProjectForOpenFiles:
+Info 615  [18:37:42.278] Search path: /home/sanjay/mean-stack/mean-course/src/app/auth
+Info 616  [18:37:42.278] For info: /home/sanjay/mean-stack/mean-course/src/app/auth/auth.service.ts :: Config file name: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 617  [18:37:42.278] `remove Project::
+Info 618  [18:37:42.278] Project '/dev/null/inferredProject1*' (Inferred)
+Info 619  [18:37:42.278] 	Files (0)
+
+Info 620  [18:37:42.278] -----------------------------------------------
+Info 621  [18:37:47.454] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 622  [18:37:47.455] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 623  [18:37:47.814] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 624  [18:37:47.814] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 102 structureChanged: false Elapsed: 0ms
+Info 625  [18:37:47.814] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 626  [18:37:49.955] Before ensureProjectForOpenFiles:
+Info 627  [18:37:49.955] After ensureProjectForOpenFiles:
+Info 628  [18:38:20.707] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 629  [18:38:20.799] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 103 structureChanged: false Elapsed: 92ms
+Info 630  [18:38:20.799] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 631  [18:38:22.510] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 632  [18:38:22.510] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 633  [18:38:22.784] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 634  [18:38:22.785] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 104 structureChanged: false Elapsed: 0ms
+Info 635  [18:38:24.258] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 636  [18:38:24.317] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 105 structureChanged: false Elapsed: 59ms
+Info 637  [18:38:24.317] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 638  [18:38:24.497] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 639  [18:38:24.590] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 106 structureChanged: false Elapsed: 93ms
+Info 640  [18:38:24.590] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 641  [18:38:25.10] Before ensureProjectForOpenFiles:
+Info 642  [18:38:25.10] After ensureProjectForOpenFiles:
+Info 643  [18:38:25.211] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 644  [18:38:25.298] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 107 structureChanged: false Elapsed: 87ms
+Info 645  [18:38:25.298] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 646  [18:38:25.648] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 647  [18:38:25.648] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 648  [18:38:25.972] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 649  [18:38:25.973] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 108 structureChanged: false Elapsed: 0ms
+Info 650  [18:38:25.973] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 651  [18:38:26.352] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 652  [18:38:26.525] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 109 structureChanged: false Elapsed: 173ms
+Info 653  [18:38:26.525] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 654  [18:38:26.920] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 655  [18:38:27.6] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 110 structureChanged: false Elapsed: 86ms
+Info 656  [18:38:27.6] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 657  [18:38:27.601] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 658  [18:38:27.681] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 111 structureChanged: false Elapsed: 80ms
+Info 659  [18:38:27.681] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 660  [18:38:28.149] Before ensureProjectForOpenFiles:
+Info 661  [18:38:28.149] After ensureProjectForOpenFiles:
+Info 662  [18:38:29.60] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 663  [18:38:29.118] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 112 structureChanged: false Elapsed: 58ms
+Info 664  [18:38:29.118] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 665  [18:38:29.326] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 666  [18:38:29.326] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 667  [18:38:29.596] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 668  [18:38:29.596] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 113 structureChanged: false Elapsed: 0ms
+Info 669  [18:38:30.414] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 670  [18:38:30.480] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 114 structureChanged: false Elapsed: 66ms
+Info 671  [18:38:30.480] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 672  [18:38:31.39] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 673  [18:38:31.39] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 674  [18:38:31.69] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 675  [18:38:31.69] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 115 structureChanged: false Elapsed: 0ms
+Info 676  [18:38:31.640] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 677  [18:38:31.734] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 116 structureChanged: false Elapsed: 94ms
+Info 678  [18:38:31.734] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 679  [18:38:31.974] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 680  [18:38:32.34] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 117 structureChanged: false Elapsed: 59ms
+Info 681  [18:38:32.34] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 682  [18:38:32.278] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 683  [18:38:32.326] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 118 structureChanged: false Elapsed: 48ms
+Info 684  [18:38:32.326] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 685  [18:38:33.539] Before ensureProjectForOpenFiles:
+Info 686  [18:38:33.540] After ensureProjectForOpenFiles:
+Info 687  [18:38:33.740] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 688  [18:38:33.794] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 119 structureChanged: false Elapsed: 54ms
+Info 689  [18:38:33.794] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 690  [18:38:34.717] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 691  [18:38:34.805] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 120 structureChanged: false Elapsed: 88ms
+Info 692  [18:38:34.805] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 693  [18:38:35.236] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 694  [18:38:35.272] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 121 structureChanged: false Elapsed: 36ms
+Info 695  [18:38:35.272] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 696  [18:38:35.724] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 697  [18:38:35.770] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 122 structureChanged: false Elapsed: 46ms
+Info 698  [18:38:35.770] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 699  [18:38:36.16] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 700  [18:38:36.70] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 123 structureChanged: false Elapsed: 54ms
+Info 701  [18:38:36.70] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 702  [18:38:38.404] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 703  [18:38:38.404] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 704  [18:38:38.683] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 705  [18:38:38.683] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 124 structureChanged: false Elapsed: 0ms
+Info 706  [18:38:40.904] Before ensureProjectForOpenFiles:
+Info 707  [18:38:40.904] After ensureProjectForOpenFiles:
+Info 708  [18:38:44.440] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 709  [18:38:44.501] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 125 structureChanged: false Elapsed: 60ms
+Info 710  [18:38:44.502] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 711  [18:38:46.91] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 712  [18:38:46.91] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 713  [18:38:46.616] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 714  [18:38:46.616] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 126 structureChanged: false Elapsed: 0ms
+Info 715  [18:38:46.616] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 716  [18:38:47.300] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 717  [18:38:47.300] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 718  [18:38:47.629] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 719  [18:38:47.629] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 127 structureChanged: false Elapsed: 0ms
+Info 720  [18:38:49.801] Before ensureProjectForOpenFiles:
+Info 721  [18:38:49.801] After ensureProjectForOpenFiles:
+Info 722  [18:43:39.92] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 723  [18:43:39.92] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 724  [18:43:39.391] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 725  [18:43:39.391] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 128 structureChanged: false Elapsed: 0ms
+Info 726  [18:43:41.592] Before ensureProjectForOpenFiles:
+Info 727  [18:43:41.592] After ensureProjectForOpenFiles:
+Info 728  [18:43:57.604] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 729  [18:43:57.604] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 730  [18:43:57.889] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 731  [18:43:57.889] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 129 structureChanged: false Elapsed: 0ms
+Info 732  [18:44:0.105] Before ensureProjectForOpenFiles:
+Info 733  [18:44:0.105] After ensureProjectForOpenFiles:
+Info 734  [18:45:1.23] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 735  [18:45:1.23] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 736  [18:45:1.322] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 737  [18:45:1.322] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 130 structureChanged: false Elapsed: 0ms
+Info 738  [18:45:3.523] Before ensureProjectForOpenFiles:
+Info 739  [18:45:3.523] After ensureProjectForOpenFiles:
+Info 740  [18:46:10.837] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 741  [18:46:10.837] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 742  [18:46:11.115] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 743  [18:46:11.115] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 131 structureChanged: false Elapsed: 0ms
+Info 744  [18:46:13.336] Before ensureProjectForOpenFiles:
+Info 745  [18:46:13.337] After ensureProjectForOpenFiles:
+Info 746  [18:48:39.114] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 747  [18:48:39.115] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 748  [18:48:39.410] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 749  [18:48:39.410] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 132 structureChanged: false Elapsed: 0ms
+Info 750  [18:48:41.614] Before ensureProjectForOpenFiles:
+Info 751  [18:48:41.615] After ensureProjectForOpenFiles:
+Info 752  [18:51:18.936] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 753  [18:51:18.936] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 754  [18:51:19.216] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 755  [18:51:19.216] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 133 structureChanged: false Elapsed: 0ms
+Info 756  [18:51:21.436] Before ensureProjectForOpenFiles:
+Info 757  [18:51:21.436] After ensureProjectForOpenFiles:
+Info 758  [18:51:25.710] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 759  [18:51:25.710] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 760  [18:51:25.998] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 761  [18:51:25.998] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 134 structureChanged: false Elapsed: 0ms
+Info 762  [18:51:27.115] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 763  [18:51:27.115] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 764  [18:51:27.393] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 765  [18:51:27.393] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 135 structureChanged: false Elapsed: 0ms
+Info 766  [18:51:29.615] Before ensureProjectForOpenFiles:
+Info 767  [18:51:29.616] After ensureProjectForOpenFiles:
+Info 768  [18:51:44.207] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 769  [18:51:44.208] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 770  [18:51:44.489] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 771  [18:51:44.490] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 136 structureChanged: false Elapsed: 0ms
+Info 772  [18:51:46.708] Before ensureProjectForOpenFiles:
+Info 773  [18:51:46.708] After ensureProjectForOpenFiles:
+Info 774  [18:51:47.330] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 775  [18:51:47.330] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 776  [18:51:47.606] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 777  [18:51:47.606] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 137 structureChanged: false Elapsed: 0ms
+Info 778  [18:51:49.679] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 779  [18:51:49.680] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 780  [18:51:49.958] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 781  [18:51:49.958] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 138 structureChanged: false Elapsed: 0ms
+Info 782  [18:51:52.180] Before ensureProjectForOpenFiles:
+Info 783  [18:51:52.180] After ensureProjectForOpenFiles:
+Info 784  [18:52:58.117] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 785  [18:52:58.117] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 786  [18:52:58.409] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 787  [18:52:58.409] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 139 structureChanged: false Elapsed: 0ms
+Info 788  [18:53:0.618] Before ensureProjectForOpenFiles:
+Info 789  [18:53:0.618] After ensureProjectForOpenFiles:
+Info 790  [18:53:39.138] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 791  [18:53:39.139] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 792  [18:53:39.414] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 793  [18:53:39.414] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 140 structureChanged: false Elapsed: 0ms
+Info 794  [18:53:41.639] Before ensureProjectForOpenFiles:
+Info 795  [18:53:41.640] After ensureProjectForOpenFiles:
+Info 796  [18:53:46.425] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 797  [18:53:46.426] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 798  [18:53:46.710] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 799  [18:53:46.710] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 141 structureChanged: false Elapsed: 0ms
+Info 800  [18:53:48.926] Before ensureProjectForOpenFiles:
+Info 801  [18:53:48.926] After ensureProjectForOpenFiles:
+Info 802  [18:54:23.845] Search path: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core
+Info 803  [18:54:23.846] For info: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core/index.d.ts :: No config files found.
+Info 804  [18:54:23.851] Loading global plugin @angular/language-service
+Info 805  [18:54:23.851] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 806  [18:54:23.851] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 807  [18:54:23.905] Plugin validation succeded
+Info 808  [18:54:23.906] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 809  [18:54:24.169] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 262ms
+Info 810  [18:54:24.169] Project '/dev/null/inferredProject2*' (Inferred)
+Info 811  [18:54:24.169] 	Files (103)
+
+Info 812  [18:54:24.169] -----------------------------------------------
+Info 813  [18:54:25.702] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 814  [18:54:25.702] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 815  [18:54:25.979] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 816  [18:54:25.979] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 142 structureChanged: false Elapsed: 0ms
+Info 817  [18:54:27.529] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 818  [18:54:27.529] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 819  [18:54:27.803] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 820  [18:54:27.803] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 143 structureChanged: false Elapsed: 0ms
+Info 821  [18:54:30.29] Before ensureProjectForOpenFiles:
+Info 822  [18:54:30.30] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 823  [18:54:30.38] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true Elapsed: 8ms
+Info 824  [18:54:30.38] Project '/dev/null/inferredProject2*' (Inferred)
+Info 825  [18:54:30.38] 	Files (0)
+
+Info 826  [18:54:30.38] -----------------------------------------------
+Info 827  [18:54:30.38] After ensureProjectForOpenFiles:
+Info 828  [18:54:31.546] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 829  [18:54:31.546] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 830  [18:54:31.836] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 831  [18:54:31.836] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 144 structureChanged: false Elapsed: 0ms
+Info 832  [18:54:34.46] Before ensureProjectForOpenFiles:
+Info 833  [18:54:34.46] After ensureProjectForOpenFiles:
+Info 834  [18:54:35.871] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 835  [18:54:35.871] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 836  [18:54:36.148] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 837  [18:54:36.148] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 145 structureChanged: false Elapsed: 0ms
+Info 838  [18:54:38.371] Before ensureProjectForOpenFiles:
+Info 839  [18:54:38.372] After ensureProjectForOpenFiles:
+Info 840  [18:55:10.464] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 841  [18:55:10.464] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 842  [18:55:10.743] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 843  [18:55:10.743] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 146 structureChanged: false Elapsed: 0ms
+Info 844  [18:55:12.964] Before ensureProjectForOpenFiles:
+Info 845  [18:55:12.964] After ensureProjectForOpenFiles:
+Info 846  [18:55:13.537] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 847  [18:55:13.538] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 848  [18:55:13.813] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 849  [18:55:13.813] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 147 structureChanged: false Elapsed: 0ms
+Info 850  [18:55:16.38] Before ensureProjectForOpenFiles:
+Info 851  [18:55:16.38] After ensureProjectForOpenFiles:
+Info 852  [18:55:16.622] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 853  [18:55:16.622] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 854  [18:55:16.908] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 855  [18:55:16.909] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 148 structureChanged: false Elapsed: 0ms
+Info 856  [18:55:19.122] Before ensureProjectForOpenFiles:
+Info 857  [18:55:19.122] After ensureProjectForOpenFiles:
+Info 858  [18:56:19.904] Search path: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core
+Info 859  [18:56:19.905] For info: /root/.cache/typescript/3.9/node_modules/@types/express-serve-static-core/index.d.ts :: No config files found.
+Info 860  [18:56:19.905] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 861  [18:56:19.970] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: true Elapsed: 65ms
+Info 862  [18:56:19.970] Project '/dev/null/inferredProject2*' (Inferred)
+Info 863  [18:56:19.970] 	Files (103)
+
+Info 864  [18:56:19.970] -----------------------------------------------
+Info 865  [18:56:23.875] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 866  [18:56:23.876] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 867  [18:56:24.159] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 868  [18:56:24.159] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 149 structureChanged: false Elapsed: 0ms
+Info 869  [18:56:25.693] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 870  [18:56:25.694] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 871  [18:56:25.974] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 872  [18:56:25.975] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 150 structureChanged: false Elapsed: 0ms
+Info 873  [18:56:27.463] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 874  [18:56:27.463] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 875  [18:56:27.768] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 876  [18:56:27.768] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 151 structureChanged: false Elapsed: 0ms
+Info 877  [18:56:29.963] Before ensureProjectForOpenFiles:
+Info 878  [18:56:29.963] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 879  [18:56:29.976] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 4 structureChanged: true Elapsed: 13ms
+Info 880  [18:56:29.976] Project '/dev/null/inferredProject2*' (Inferred)
+Info 881  [18:56:29.976] 	Files (0)
+
+Info 882  [18:56:29.976] -----------------------------------------------
+Info 883  [18:56:29.976] After ensureProjectForOpenFiles:
+Info 884  [18:56:35.854] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 885  [18:56:35.854] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 886  [18:56:36.149] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 887  [18:56:36.149] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 152 structureChanged: false Elapsed: 0ms
+Info 888  [18:56:38.354] Before ensureProjectForOpenFiles:
+Info 889  [18:56:38.354] After ensureProjectForOpenFiles:
+Info 890  [18:56:42.370] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 891  [18:56:42.371] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 892  [18:56:42.656] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 893  [18:56:42.656] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 153 structureChanged: false Elapsed: 0ms
+Info 894  [18:56:44.870] Before ensureProjectForOpenFiles:
+Info 895  [18:56:44.870] After ensureProjectForOpenFiles:
+Info 896  [18:56:45.791] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 897  [18:56:45.791] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 898  [18:56:46.65] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 899  [18:56:46.65] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 154 structureChanged: false Elapsed: 0ms
+Info 900  [18:56:48.292] Before ensureProjectForOpenFiles:
+Info 901  [18:56:48.293] After ensureProjectForOpenFiles:
+Info 902  [18:56:58.525] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 903  [18:56:58.525] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 904  [18:56:58.805] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 905  [18:56:58.805] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 155 structureChanged: false Elapsed: 0ms
+Info 906  [18:57:1.26] Before ensureProjectForOpenFiles:
+Info 907  [18:57:1.26] After ensureProjectForOpenFiles:
+Info 908  [18:57:2.618] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 909  [18:57:2.618] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 910  [18:57:2.897] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 911  [18:57:2.898] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 156 structureChanged: false Elapsed: 1ms
+Info 912  [18:57:5.118] Before ensureProjectForOpenFiles:
+Info 913  [18:57:5.118] After ensureProjectForOpenFiles:
+Info 914  [18:58:39.169] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 915  [18:58:39.169] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 916  [18:58:39.448] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 917  [18:58:39.448] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 157 structureChanged: false Elapsed: 0ms
+Info 918  [18:58:41.669] Before ensureProjectForOpenFiles:
+Info 919  [18:58:41.669] After ensureProjectForOpenFiles:
+Info 920  [19:3:39.192] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 921  [19:3:39.193] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 922  [19:3:39.477] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 923  [19:3:39.477] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 158 structureChanged: false Elapsed: 0ms
+Info 924  [19:3:41.693] Before ensureProjectForOpenFiles:
+Info 925  [19:3:41.693] After ensureProjectForOpenFiles:
+Info 926  [19:5:0.28] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd/file :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 927  [19:5:0.28] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd/file :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 928  [19:5:0.29] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd/file :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 929  [19:5:0.29] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd/file :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 930  [19:5:0.30] DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 931  [19:5:0.30] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/sanjay/mean-stack/mean-course/~/.vscode-root/Backups/f614f228b5deffe738b4dbf725ad81dd :: WatchInfo: /home/sanjay/mean-stack/mean-course 1 undefined Project: /home/sanjay/mean-stack/mean-course/tsconfig.json WatchType: Wild card directory
+Info 932  [19:5:0.314] Starting updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json
+Info 933  [19:5:0.315] Finishing updateGraphWorker: Project: /home/sanjay/mean-stack/mean-course/tsconfig.json Version: 159 structureChanged: false Elapsed: 1ms

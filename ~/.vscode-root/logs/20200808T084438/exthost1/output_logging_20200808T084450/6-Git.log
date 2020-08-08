@@ -1,0 +1,30 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sanjay/mean-stack/mean-course
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/auth/auth-interceptor.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth-interceptor.ts
+> git cat-file -s 0947eadbb9a1e1f2f805a929ab9ed78a66acab5b
+> git status -z -u
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth-interceptor.ts
+> git cat-file -s 0947eadbb9a1e1f2f805a929ab9ed78a66acab5b
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/app/auth/auth-interceptor.ts
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
