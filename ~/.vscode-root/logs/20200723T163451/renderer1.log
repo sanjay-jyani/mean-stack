@@ -1,2 +1,0 @@
-[2020-07-23 16:34:55.605] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sanjay/mean-stack/mean-course/.vscode'
-[2020-07-23 16:34:55.606] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sanjay/mean-stack/mean-course/.vscode'
