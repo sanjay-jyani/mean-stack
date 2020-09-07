@@ -1,8 +1,0 @@
-[2020-08-06 13:46:49.493] [sharedprocess] [info] main {"machineId":"83e9ad45f8f107146454c40b808f7e1782b5384357b1f6831175507fe5f64dc2","windowId":2}
-[2020-08-06 13:46:55.817] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
-[2020-08-06 13:47:00.796] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /home/sanjay/mean-stack/mean-course/~/.vscode-root/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.13
-[2020-08-06 13:47:00.938] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eg2.vscode-npm-script-0.3.13: eg2.vscode-npm-script
-[2020-08-06 13:47:00.938] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eg2.vscode-npm-script-0.3.13
-[2020-08-06 13:47:00.939] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
-[2020-08-06 13:47:02.766] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
-[2020-08-06 13:47:29.506] [sharedprocess] [info] Starting to clean up unused language packs.

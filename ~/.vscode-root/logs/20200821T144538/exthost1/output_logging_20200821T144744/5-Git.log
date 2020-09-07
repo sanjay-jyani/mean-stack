@@ -1,0 +1,555 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sanjay/mean-stack/mean-course
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :src/app/post/post-create/post-create.component.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post-create/post-create.component.ts
+> git cat-file -s 61f964d6d27a324ec345437caafd531abaea2b94
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/routes/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/user.js
+> git cat-file -s e523a00cdeab7e47444853a99213bd7aa2b684da
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git show --textconv :backend/routes/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/routes/posts.js
+> git cat-file -s c09fd80de1fc7ec339d069e1e1f25de10f5f3e87
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/middleware/file.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/middleware/file.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/angular-material.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/angular-material.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/post/post.model.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.model.ts
+> git cat-file -s ce8f7aba50b30799a8bf433d39f9cac1dafa96d0
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app-routing.module.ts
+> git cat-file -s 0312db9aadd009ec070773fa3d9672f9906e9811
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/angular-material.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/angular-material.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/angular-material.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/angular-material.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/angular-material.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/angular-material.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/angular-material.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/angular-material.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.model.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.model.ts
+> git cat-file -s ce8f7aba50b30799a8bf433d39f9cac1dafa96d0
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.model.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.model.ts
+> git cat-file -s ce8f7aba50b30799a8bf433d39f9cac1dafa96d0
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/post/post.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :backend/controllers/posts.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.module.ts
+> git cat-file -s b22b3049f406a2c3ba52deeaabd7168a30f4699c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

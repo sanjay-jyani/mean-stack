@@ -1,5 +1,0 @@
-[Info  - 1:00:28 PM] Angular language server process ID: 3216
-[Info  - 1:00:28 PM] Using typescript v3.7.4 from /root/.vscode/extensions/angular.ng-template-0.900.5/node_modules/typescript/lib/tsserverlibrary.js
-[Info  - 1:00:28 PM] Using @angular/language-service v9.0.0-rc.9 from /root/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js
-[Info  - 1:00:28 PM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200726T130007/exthost1/Angular.ng-template/nglangsvc.log
-[Error - 1:01:35 PM] No config file for /home/sanjay/mean-stack/mean-course/src/app/auth/signup/signup.component.html

@@ -1,0 +1,5 @@
+[Info  - 3:10:44 PM] Angular language server process ID: 4257
+[Info  - 3:10:44 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 3:10:44 PM] Using @angular/language-service v10.0.7 from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 3:10:44 PM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200824T151003/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 3:11:48 PM] Enabling language service for /home/sanjay/mean-stack/mean-course/tsconfig.json.

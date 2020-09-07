@@ -1,0 +1,8 @@
+[2020-08-18 19:28:42.755] [sharedprocess] [info] main {"machineId":"83e9ad45f8f107146454c40b808f7e1782b5384357b1f6831175507fe5f64dc2","windowId":2}
+[2020-08-18 19:28:50.293] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-08-18 19:28:57.365] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /home/sanjay/mean-stack/mean-course/~/.vscode-root/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.12.10
+[2020-08-18 19:28:58.095] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.10: msjsdiag.debugger-for-chrome
+[2020-08-18 19:28:58.095] [sharedprocess] [info] Renamed to /root/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.10
+[2020-08-18 19:28:58.096] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2020-08-18 19:28:58.328] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2020-08-18 19:29:22.769] [sharedprocess] [info] Starting to clean up unused language packs.

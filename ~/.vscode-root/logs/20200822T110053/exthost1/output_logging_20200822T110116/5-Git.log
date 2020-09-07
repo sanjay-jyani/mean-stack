@@ -1,0 +1,87 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sanjay/mean-stack/mean-course
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app-routing.module.ts
+> git cat-file -s 0312db9aadd009ec070773fa3d9672f9906e9811
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/auth/auth-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth-routing.module.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app-routing.module.ts
+> git cat-file -s 0312db9aadd009ec070773fa3d9672f9906e9811
+> git show --textconv :src/app/auth/auth-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/header/header.component.html
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/header/header.component.html
+> git cat-file -s a934d098928bed904501cda1c27dce8ae9657a7c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :angular.json
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/angular.json
+> git cat-file -s 0cb367a181fb0508a02c5e758954a2d5746652bd
+> git show --textconv :src/app/header/header.component.html
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/header/header.component.html
+> git cat-file -s a934d098928bed904501cda1c27dce8ae9657a7c
+> git show --textconv :src/app/auth/auth.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.module.ts
+> git show --textconv :src/app/auth/auth-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth-routing.module.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app-routing.module.ts
+> git cat-file -s 0312db9aadd009ec070773fa3d9672f9906e9811
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

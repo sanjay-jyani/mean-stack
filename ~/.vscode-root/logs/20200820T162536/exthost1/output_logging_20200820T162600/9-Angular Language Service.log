@@ -1,0 +1,6 @@
+[Info  - 4:26:00 PM] Angular language server process ID: 6339
+[Info  - 4:26:00 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 4:26:00 PM] Using @angular/language-service v10.0.7 from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 4:26:00 PM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200820T162536/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 4:26:39 PM] Enabling language service for /home/sanjay/mean-stack/mean-course/tsconfig.json.
+[Error - 5:24:04 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/core/core.d.ts

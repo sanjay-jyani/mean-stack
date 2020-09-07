@@ -1,0 +1,38 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sanjay/mean-stack/mean-course
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/auth/auth.service.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/auth/auth.service.ts
+> git cat-file -s 65adf10152ed656445bbb6a5048eb81abdc216fb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/app.component.ts
+> git cat-file -s e1d03925c62132224bffba35ca6cae013f67cf2a
+> git show --textconv :nodemon.json
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/nodemon.json
+> git show --textconv :backend/controllers/user.js
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/backend/controllers/user.js
+> git show --textconv :src/app/post/post.service.ts
+> git ls-files --stage -- /home/sanjay/mean-stack/mean-course/src/app/post/post.service.ts
+> git cat-file -s 79cd6652c02c40edb75c10d14bf37c5d7697f861
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

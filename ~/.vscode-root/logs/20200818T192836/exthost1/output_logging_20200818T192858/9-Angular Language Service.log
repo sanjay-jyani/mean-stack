@@ -1,0 +1,5 @@
+[Info  - 7:28:58 PM] Angular language server process ID: 8069
+[Info  - 7:28:58 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 7:28:58 PM] Using @angular/language-service v10.0.7 from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 7:28:58 PM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200818T192836/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 7:29:36 PM] Enabling language service for /home/sanjay/mean-stack/mean-course/tsconfig.json.

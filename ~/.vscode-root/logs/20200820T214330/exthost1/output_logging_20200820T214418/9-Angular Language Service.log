@@ -1,0 +1,10 @@
+[Info  - 9:44:18 PM] Angular language server process ID: 2985
+[Info  - 9:44:18 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 9:44:18 PM] Using @angular/language-service v10.0.7 from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 9:44:18 PM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200820T214330/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 9:45:23 PM] Enabling language service for /home/sanjay/mean-stack/mean-course/tsconfig.json.
+[Error - 10:15:28 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/input/index.d.ts
+[Error - 10:15:28 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/card/index.d.ts
+[Error - 10:15:28 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/toolbar/index.d.ts
+[Error - 10:15:28 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/expansion/index.d.ts
+[Error - 10:15:29 PM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/expansion/index.d.ts

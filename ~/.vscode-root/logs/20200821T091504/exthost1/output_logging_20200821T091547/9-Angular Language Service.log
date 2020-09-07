@@ -1,0 +1,6 @@
+[Info  - 9:15:47 AM] Angular language server process ID: 2424
+[Info  - 9:15:47 AM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 9:15:47 AM] Using @angular/language-service v10.0.7 from /root/.vscode/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 9:15:47 AM] Log file: /home/sanjay/mean-stack/mean-course/~/.vscode-root/logs/20200821T091504/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 9:16:41 AM] Enabling language service for /home/sanjay/mean-stack/mean-course/tsconfig.json.
+[Error - 10:22:01 AM] No config file for /home/sanjay/mean-stack/mean-course/node_modules/@angular/material/button/button.d.ts
